@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ICETEX al Día · ¿Dónde quedó la plata de los créditos? · Vibras Positivas HM</title>
+<meta name="description" content="Seguimiento ciudadano al caso ICETEX: 80 % más contratistas, más de $70.000 millones en un año y $83.770 millones en un proyecto no viable. Noticias y videos reales cada 30 minutos y derecho de petición a todas las entidades.">
+<meta name="theme-color" content="#0b0d12">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="img/icon-192.png">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="ICETEX al Día: contratistas crecieron 80 % mientras los créditos se caían">
+<meta property="og:description" content="Más de $70.000 millones en contratistas en un año y $83.770 millones en un proyecto que su propio estudio declaró no viable. Siga el caso y exija respuestas con un derecho de petición.">
+<meta property="og:url" content="https://icetex-al-dia.netlify.app/">
+<meta property="og:image" content="https://icetex-al-dia.netlify.app/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Sede del ICETEX (foto real)">
+<meta property="og:locale" content="es_CO">
+<meta property="og:locale:alternate" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ICETEX al Día">
+<meta name="twitter:description" content="Seguimiento ciudadano al caso de los contratistas del ICETEX.">
+<meta name="twitter:image" content="https://icetex-al-dia.netlify.app/img/og.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#inicio"><span class="brand-a">ICETEX</span><span class="brand-b" data-i18n="al_dia">al Día</span></a>
+  <nav class="menu">
+    <a href="#hoy" data-i18n="nav_hoy">Hoy</a>
+    <a href="#caso" data-i18n="nav_caso">El caso</a>
+    <a href="#plata" data-i18n="nav_plata">La plata</a>
+    <a href="#linea" data-i18n="nav_linea">En qué va</a>
+    <a href="#quienes" data-i18n="nav_quienes">Quiénes</a>
+    <a href="#versiones" data-i18n="nav_versiones">Versiones</a>
+    <a href="#videos" data-i18n="nav_videos">Videos</a>
+    <a href="#noticias" data-i18n="nav_noticias">Noticias</a>
+    <a href="#peticion" data-i18n="nav_peticion">Petición</a>
+  </nav>
+  <div class="actions">
+    <button id="btnLang" class="btn ghost" aria-label="Cambiar idioma">EN</button>
+    <button id="btnRefresh" class="btn solid" data-i18n="actualizar">Actualizar</button>
+  </div>
+</header>
+
+<!-- PORTADA -->
+<section id="inicio" class="hero">
+  <div id="heroSlides" class="hero-slides"></div>
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <p class="kicker"><span class="live-bar"></span><span data-i18n="seguimiento">Seguimiento ciudadano en tiempo real</span></p>
+    <h1 data-i18n="hero_t">¿Dónde quedó la plata de los créditos del ICETEX?</h1>
+    <p class="lead" data-i18n="hero_p">La nueva administración denuncia que entre 2022 y 2026 los contratistas crecieron 80 % y se pagaron miles de millones por un proyecto que su propio estudio declaró inviable, mientras los créditos nuevos se desplomaban. Aquí sigue el caso, día a día.</p>
+    <div class="kpis">
+      <div class="kpi"><b>80 %</b><span data-i18n="kpi_1">más contratistas</span></div>
+      <div class="kpi"><b>+140 %</b><span data-i18n="kpi_2">gasto en contratos</span></div>
+      <div class="kpi"><b>$83.770 M</b><span data-i18n="kpi_3">en un proyecto no viable</span></div>
+      <div class="kpi"><b id="kpiDias">—</b><span data-i18n="kpi_4">días desde la denuncia</span></div>
+    </div>
+    <p class="hero-foot"><span data-i18n="hora_col">Hora de Colombia</span> <b id="clock">—</b> <span class="sep">|</span> <span id="heroCredit"></span></p>
+  </div>
+</section>
+
+<!-- CINTA -->
+<div class="ticker" aria-hidden="true"><div class="ticker-track" id="ticker"></div></div>
+
+<!-- HOY -->
+<section id="hoy" class="block">
+  <div class="head">
+    <p class="eyebrow" data-i18n="hoy_ey">Lo último</p>
+    <h2 data-i18n="hoy_t">Hoy</h2>
+    <p class="muted"><span data-i18n="hoy_sub">Se actualiza cada vez que entras.</span> <span id="hoyStamp"></span></p>
+  </div>
+  <div id="hoyStatus" class="status"></div>
+  <div id="hoyList" class="grid-news"></div>
+</section>
+
+<!-- EL CASO -->
+<section id="caso" class="block dark">
+  <div class="inner">
+    <div class="head">
+      <p class="eyebrow" data-i18n="caso_ey">Los hallazgos</p>
+      <h2 data-i18n="caso_t">Lo que encontró la revisión</h2>
+      <p class="muted" data-i18n="caso_sub">Cifras presentadas por el presidente del ICETEX, Richard Caicedo, el 4 de noviembre de 2026. Son denuncias: falta que los entes de control las confirmen.</p>
+    </div>
+    <div class="findings" id="hallazgos"></div>
+  </div>
+</section>
+
+<!-- LA PLATA -->
+<section id="plata" class="block">
+  <div class="head">
+    <p class="eyebrow" data-i18n="plata_ey">En números</p>
+    <h2 data-i18n="plata_t">Más contratos, menos estudiantes</h2>
+    <p class="muted" data-i18n="plata_sub">Mientras crecía el gasto en contratistas, caían los créditos nuevos y se acababa el subsidio a la tasa de interés para cerca de 200.000 jóvenes.</p>
+  </div>
+  <div class="money">
+    <article class="mcard">
+      <h3 class="h3" data-i18n="m_cred">Créditos nuevos aprobados</h3>
+      <div id="barsCred" class="bars"></div>
+      <p class="muted small" data-i18n="m_cred_n">Cifras aproximadas del informe del ICETEX.</p>
+    </article>
+    <article class="mcard">
+      <h3 class="h3" data-i18n="m_aev">Contrato tecnológico del Ahorro Educativo</h3>
+      <div class="meter"><div class="meter-fill" id="aevFill"></div></div>
+      <div class="meter-legend"><span><b>$48.700 M</b> <span data-i18n="m_girado">entregados en menos de un año</span></span><span><b>≈ $83.000 M</b> <span data-i18n="m_total">valor a cinco años</span></span></div>
+      <p class="muted small" data-i18n="m_aev_n">El producto nunca salió al mercado: no tiene viabilidad financiera ni reglamento aprobado por la Superintendencia Financiera.</p>
+    </article>
+  </div>
+
+  <div class="calc">
+    <div>
+      <h3 class="h3" data-i18n="calc_t">¿Cuántos semestres se pagan con $70.000 millones?</h3>
+      <p class="muted" data-i18n="calc_sub">Mueva la barra al valor de un semestre en su universidad o instituto.</p>
+      <input id="semRange" type="range" aria-label="Valor del semestre">
+      <div class="calc-out"><span data-i18n="calc_sem">Semestre de</span> <b id="semVal">$5.000.000</b></div>
+    </div>
+    <div class="compare one">
+      <div class="hot"><small data-i18n="calc_res">Lo que costaron los contratistas en un año alcanzaría para</small><b id="semN">14.000</b><span data-i18n="calc_unit">semestres de matrícula</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- EN QUÉ VA -->
+<section id="linea" class="block dark">
+  <div class="inner">
+    <div class="head">
+      <p class="eyebrow" data-i18n="lin_ey">El camino</p>
+      <h2 data-i18n="lin_t">En qué va el caso</h2>
+      <p class="muted" data-i18n="lin_sub">La Contraloría ve el daño a la plata pública, la Procuraduría la conducta de los funcionarios y la Fiscalía los posibles delitos.</p>
+    </div>
+    <div class="road" id="road"></div>
+    <ul class="timeline" id="timeline"></ul>
+  </div>
+</section>
+
+<!-- QUIÉNES -->
+<section id="quienes" class="block band">
+  <div class="inner">
+    <div class="head">
+      <p class="eyebrow" data-i18n="qui_ey">Los nombres</p>
+      <h2 data-i18n="qui_t">Quiénes están en el caso</h2>
+      <p class="muted" data-i18n="qui_sub">Información pública. El informe no señala responsables individuales; eso lo deben definir los entes de control.</p>
+    </div>
+    <div class="people" id="personas"></div>
+    <p class="ojo" id="ojo"></p>
+  </div>
+</section>
+
+<!-- VERSIONES -->
+<section id="versiones" class="block">
+  <div class="head">
+    <p class="eyebrow" data-i18n="ver_ey">Las dos caras</p>
+    <h2 data-i18n="ver_t">Lo que se denuncia y lo que falta probar</h2>
+    <p class="muted" data-i18n="ver_sub">Usted decide con la información completa.</p>
+  </div>
+  <div class="versus">
+    <article class="side con"><h3 data-i18n="gob_t">Lo que denuncia el Gobierno</h3><ul id="gobList"></ul></article>
+    <article class="side pro"><h3 data-i18n="otro_t">Lo que falta y la otra versión</h3><ul id="otroList"></ul></article>
+  </div>
+</section>
+
+<!-- VIDEOS -->
+<section id="videos" class="block dark">
+  <div class="inner">
+    <div class="head">
+      <p class="eyebrow" data-i18n="vid_ey">En video</p>
+      <h2 data-i18n="vid_t">Videos recientes</h2>
+      <p class="muted" data-i18n="vid_sub">El robot busca en YouTube los videos más nuevos del caso ICETEX.</p>
+    </div>
+    <div id="videoList" class="grid-video"></div>
+  </div>
+</section>
+
+<!-- NOTICIAS -->
+<section id="noticias" class="block">
+  <div class="head">
+    <p class="eyebrow" data-i18n="not_ey">Todas las noticias</p>
+    <h2 data-i18n="not_t">Noticias reales</h2>
+    <p class="muted"><span data-i18n="not_sub">El robot las trae cada 30 minutos y la app busca en vivo al abrir.</span> <span id="robotStamp"></span></p>
+  </div>
+  <div class="searchbar">
+    <input id="q" type="search" placeholder="Buscar en las noticias…" data-i18n-ph="buscar">
+    <div class="seg" id="filtro">
+      <button data-f="todo" class="on" data-i18n="f_todo">Todo</button>
+      <button data-f="contratos" data-i18n="f_contr">Contratos</button>
+      <button data-f="ahorro" data-i18n="f_ahorro">Ahorro educativo</button>
+      <button data-f="creditos" data-i18n="f_cred">Créditos</button>
+    </div>
+    <span id="liveState" class="state"></span>
+  </div>
+  <div id="newsList" class="grid-news"></div>
+</section>
+
+<!-- PETICIÓN -->
+<section id="peticion" class="block">
+  <div class="pet">
+    <div class="head">
+      <p class="eyebrow" data-i18n="pet_ey">Participe</p>
+      <h2 data-i18n="pet_t">Derecho de petición: exijamos saber qué pasó con la plata</h2>
+      <p class="muted" data-i18n="pet_sub">Artículo 23 de la Constitución y Ley 1755 de 2015. Llénelo una vez y envíelo de una sola vez a todas las entidades involucradas.</p>
+    </div>
+    <div class="pet-grid">
+      <form id="petForm" class="pet-form">
+        <label><span data-i18n="f_nombre">Nombre completo</span><input name="nombre" required></label>
+        <label><span data-i18n="f_cedula">Cédula</span><input name="cedula" inputmode="numeric" required></label>
+        <label><span data-i18n="f_ciudad">Ciudad</span><input name="ciudad" value="Caucasia, Antioquia" required></label>
+        <label><span data-i18n="f_correo">Correo para la respuesta</span><input name="correo" type="email" required></label>
+        <label class="chk"><input type="checkbox" name="deudor"> <span data-i18n="f_deudor">Soy beneficiario, deudor o codeudor del ICETEX</span></label>
+        <fieldset><legend data-i18n="f_dest">Se envía a</legend><div id="destinos" class="dest"></div></fieldset>
+        <div class="row">
+          <button type="submit" class="btn solid big" data-i18n="enviar">Enviar a todas de una vez</button>
+          <button type="button" id="btnCopy" class="btn line big" data-i18n="copiar">Copiar texto</button>
+          <button type="button" id="btnWa" class="btn line big" data-i18n="whatsapp">Compartir por WhatsApp</button>
+        </div>
+        <p class="muted small" data-i18n="pet_nota">Las entidades tienen 15 días hábiles para responder (10 para documentos). Guarde el correo enviado como prueba.</p>
+      </form>
+      <pre id="petText" class="pet-text"></pre>
+    </div>
+  </div>
+</section>
+
+<section class="block sources">
+  <h2 class="h3" data-i18n="fuentes">Fuentes y créditos</h2>
+  <ul id="fuentes"></ul>
+  <p class="muted small" data-i18n="creditos">Las fotos de noticias y videos pertenecen a cada medio o canal enlazado. Las cifras son las presentadas por el ICETEX el 4 de noviembre de 2026 y recogidas por los medios citados.</p>
+</section>
+
+<footer class="foot">
+  <p><b>Vibras Positivas HM</b> · <span data-i18n="pie">App ciudadana e independiente. No pertenece a ningún partido ni entidad.</span></p>
+  <p>icetex-al-dia.netlify.app · WhatsApp 311 770 0431</p>
+</footer>
+
+<script src="data/contenido.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

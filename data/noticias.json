@@ -1,0 +1,107 @@
+{
+  "actualizado": "2026-11-05T18:40:00-05:00",
+  "fuente": "Google Noticias y YouTube (robot cada 30 min)",
+  "fotos": [
+    {
+      "src": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/Icetex.jpeg?itok=zGyu1xaP",
+      "medio": "La Patria",
+      "url": "https://www.lapatria.com/colombia/esta-entidad-denuncia-contratos-por-83-mil-770-millones-para-un-proyecto-que-no-era-viable"
+    },
+    {
+      "src": "https://www.universidad.edu.co/wp-content/uploads/2026/11/icetexpresidencia.jpg",
+      "medio": "Observatorio de la Universidad Colombiana",
+      "url": "https://www.universidad.edu.co/mientras-gobierno-petro-recorto-recursos-de-subsidio-de-icetex-disparo-la-contratacion-en-la-entidad-denuncia-richard-caicedo/"
+    }
+  ],
+  "videos": [],
+  "noticias": [
+    {
+      "titulo": "Esta entidad denuncia contratos por $83 mil 770 millones para un proyecto que no era viable financieramente",
+      "medio": "La Patria",
+      "fecha": "2026-11-05T08:00:00-05:00",
+      "url": "https://www.lapatria.com/colombia/esta-entidad-denuncia-contratos-por-83-mil-770-millones-para-un-proyecto-que-no-era-viable",
+      "imagen": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/Icetex.jpeg?itok=zGyu1xaP",
+      "tema": "ahorro"
+    },
+    {
+      "titulo": "Mientras gobierno Petro recortó recursos de subsidio de ICETEX, disparó la contratación en la entidad, denuncia Richard Caicedo",
+      "medio": "Observatorio de la Universidad Colombiana",
+      "fecha": "2026-11-05T07:00:00-05:00",
+      "url": "https://www.universidad.edu.co/mientras-gobierno-petro-recorto-recursos-de-subsidio-de-icetex-disparo-la-contratacion-en-la-entidad-denuncia-richard-caicedo/",
+      "imagen": "https://www.universidad.edu.co/wp-content/uploads/2026/11/icetexpresidencia.jpg",
+      "tema": "contratos"
+    },
+    {
+      "titulo": "Icetex denuncia presuntas irregularidades por $83.770 millones en proyecto inviable durante el gobierno Petro",
+      "medio": "Metropolitano",
+      "fecha": "2026-11-05T06:00:00-05:00",
+      "url": "https://metropolitano.com.co/icetex-denuncia-irregularidades-por-83-770-millones/",
+      "imagen": "",
+      "tema": "ahorro"
+    },
+    {
+      "titulo": "El ICETEX denuncia costosas contrataciones y pagos asociados a proyecto sin viabilidad, así como el desmedido gasto administrativo",
+      "medio": "Suba Alternativa",
+      "fecha": "2026-11-05T05:00:00-05:00",
+      "url": "https://subaalternativa.co/el-icetex-denuncia-costosas-contrataciones-y-pagos-asociados-a-proyecto-sin-viabilidad-asi-como-el-desmedido-gasto-administrativo/",
+      "imagen": "",
+      "tema": "contratos"
+    },
+    {
+      "titulo": "El Gobierno nacional le puso la lupa al Icetex: advierte recortes, menos créditos y contratos bajo cuestionamiento",
+      "medio": "Infobae",
+      "fecha": "2026-11-04T18:08:00-05:00",
+      "url": "https://www.infobae.com/colombia/2026/11/04/el-gobierno-nacional-le-puso-la-lupa-al-icetex-advierte-recortes-menos-creditos-y-contratos-bajo-cuestionamiento/",
+      "imagen": "",
+      "tema": "creditos"
+    },
+    {
+      "titulo": "Abelardo De La Espriella denunció millonaria irregularidad en el Icetex ante la Procuraduría y Contraloría",
+      "medio": "Semana",
+      "fecha": "2026-11-04T16:22:00-05:00",
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-denuncio-millonaria-irregularidad-en-el-icetex-ante-la-procuraduria-y-contraloria/202652/",
+      "imagen": "",
+      "tema": "contratos"
+    },
+    {
+      "titulo": "Gobierno De la Espriella pone la lupa en el Icetex: anuncia medidas ante posibles irregularidades en la entidad",
+      "medio": "Valora Analitik",
+      "fecha": "2026-11-04T16:00:00-05:00",
+      "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-pone-la-lupa-en-el-icetex-anuncia-medidas-ante-posibles-irregularidades-en-la-entidad/",
+      "imagen": "",
+      "tema": "contratos"
+    },
+    {
+      "titulo": "ICETEX denuncia presuntas irregularidades por más de $83.000 millones en proyecto inviable",
+      "medio": "Noticias RCN",
+      "fecha": "2026-11-04T15:25:00-05:00",
+      "url": "https://co.headtopics.com/news/icetex-denuncia-presuntas-irregularidades-por-m-s-de-89551944",
+      "imagen": "",
+      "tema": "ahorro"
+    },
+    {
+      "titulo": "¡Alerta en el Icetex! Denuncian $83.770 millones comprometidos en proyecto que no era viable",
+      "medio": "Chicanoticias",
+      "fecha": "2026-11-04T14:00:00-05:00",
+      "url": "https://www.chicanoticias.com/2026/11/04/icetex-proyecto-no-viable/",
+      "imagen": "",
+      "tema": "ahorro"
+    },
+    {
+      "titulo": "Icetex destinará 13.709 millones para contratar un call center para cobro de cartera hasta 2028",
+      "medio": "Cambio",
+      "fecha": "2026-09-20T09:00:00-05:00",
+      "url": "https://cambiocolombia.com/pais/articulo/2026/9/icetex-destinara-13709-millones-para-contratar-un-call-center-para-cobro-de-cartera-hasta-2028",
+      "imagen": "",
+      "tema": "creditos"
+    },
+    {
+      "titulo": "Richard Caicedo es el nuevo presidente de Icetex; estos son sus retos",
+      "medio": "El País",
+      "fecha": "2026-08-19T01:46:00-05:00",
+      "url": "https://www.elpais.com.co/colombia/richard-caicedo-es-el-nuevo-presidente-de-icetex-estos-son-sus-retos-1826.html",
+      "imagen": "",
+      "tema": "contratos"
+    }
+  ]
+}
