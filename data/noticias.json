@@ -1,7 +1,27 @@
 {
-  "actualizado": "2026-11-25T06:53:38-05:00",
+  "actualizado": "2026-11-25T15:50:51-05:00",
   "fuente": "Google Noticias y YouTube (robot cada 30 min)",
   "fotos": [
+    {
+      "src": "https://caracol.com.co/resizer/v2/OWUEARIE5FHPLEQAW5RE26EJXI.jpeg?auth=6297063667cc15c5866cb12d029caf146e61331072f4930ecf325a87da96580b&quality=70&width=1200&height=675&smart=true",
+      "medio": "Caracol Radio",
+      "url": "https://caracol.com.co/2026/11/25/quiere-estudiar-y-no-tiene-como-pagar-icetex-llegara-a-piedecuesta-con-opciones-de-financiacion/"
+    },
+    {
+      "src": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/QLTT/a20250915t040040-m-10-211-95-50-51-4_52226225_20261125130505.jpg",
+      "medio": "El Colombiano",
+      "url": "https://www.elcolombiano.com/colombia/como-condonar-credito-educativo-icetex-FF44057075"
+    },
+    {
+      "src": "https://www.cablenoticias.com/media/img/8c2c9b9e-e369-4a11-92c6-d906e2bcaa3e",
+      "medio": "cablenoticias",
+      "url": "https://www.cablenoticias.com/noticias/icetex-2027-1-fechas-cierre-requisitos-lineas-credito-y-pasos-solicitar-financiacion"
+    },
+    {
+      "src": "https://web.icetex.gov.co/documents/20122/3873989/imagen-asesora-icetex-explicando-informacion-grupo-personas-en-sala-atencion.jpg/52c06580-2810-0776-d795-49a2229a0c60?version=1.0&t=1795627402144&download=true",
+      "medio": "ICETEX",
+      "url": "https://web.icetex.gov.co/-/icetex-abre-convocatoria-50-becas-cursar-maestrias-virtuales-en-espana-con-descuento-45-en-matricula"
+    },
     {
       "src": "https://gec.hsbnoticias.com/uploads/articles/8df88cd0-6a43-4bf5-8eb8-c91f786d56e7.webp",
       "medio": "Diario del Sur",
@@ -21,29 +41,113 @@
       "src": "https://storage.googleapis.com/ifmnoticias-media/articles/ai-generated/ai-1795353883172.webp",
       "medio": "ifmnoticias",
       "url": "https://ifmnoticias.com/colombia/icetex-da-mas-tiempo-a-los-jovenes-damnificados-por-el-terremoto-la-linea-gente-/"
-    },
-    {
-      "src": "https://gec.hsbnoticias.com/uploads/articles/c55cb335-4fa0-4298-8cd5-49ff8884462b.webp",
-      "medio": "Diario del Sur",
-      "url": "https://www.diariodelsur.com.co/noticias/icetex-amplio-plazo-para-afectados-por-el-terremoto-en-choco-caldas-quindio-risaralda"
-    },
-    {
-      "src": "https://www.eldiario.com.co/wp-content/uploads/2026/11/Beige-Minimalist-Beauty-Before-After-Collage-Instagram-Post-1920-x-1080-px-2026-11-21T083443.710.jpg",
-      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "url": "https://www.eldiario.com.co/noticias/icetex-amplia-plazo-de-creditos-para-estudiantes-afectados-por-el-terremoto/"
-    },
-    {
-      "src": "https://www.infobae.com/resizer/v2/ZC5J7E5OUNAVZJYJNE2MGVVQ4I.jpg?auth=dc6490f6dac488610ac595441cb9fd988c9cbc5a98cc2409b0e3b00b59fd7fca&smart=true&width=1024&height=512&quality=85",
-      "medio": "Infobae",
-      "url": "https://www.infobae.com/colombia/2026/11/21/el-icetex-amplio-hasta-febrero-de-2027-las-solicitudes-de-creditos-para-estudiantes-damnificados-por-el-terremoto/"
-    },
-    {
-      "src": "https://caracol.com.co/resizer/v2/4CULAWMXMNC4XKYKWFCDENWNSU.jpeg?auth=7b946545ef94669744a95db05afc857f43135f9bd2c07dbb2cc60e21797f6f54&quality=70&width=1200&height=675&smart=true",
-      "medio": "Caracol Radio",
-      "url": "https://caracol.com.co/2026/11/21/terremoto-del-10-de-agosto-icetex-financiara-proyectos-para-evitar-desercion-y-recuperar-negocios/"
     }
   ],
   "videos": [
+    {
+      "id": "R0tH1tjl3cY",
+      "titulo": "#SHORTS La contraloría descubrió irregularidades en algunos créditos del ICETEX.",
+      "canal": "Lainfo 360",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/R0tH1tjl3cY/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:51.078Z"
+    },
+    {
+      "id": "umvun2NPJmY",
+      "titulo": "Vocería Presidente del ICETEX, Richard Caicedo Rico",
+      "canal": "Presidencia de la República - Colombia",
+      "hace": "hace 2 sem.",
+      "imagen": "https://i.ytimg.com/vi/umvun2NPJmY/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "sRha1H2Doe8",
+      "titulo": "Richard Caicedo, nuevo presidente del ICETEX de De La Espriella | Vanguardia",
+      "canal": "VANGUARDIA",
+      "hace": "hace 3 m",
+      "imagen": "https://i.ytimg.com/vi/sRha1H2Doe8/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "wBltB9sJnww",
+      "titulo": "Icetex suspende cobro de créditos y congela intereses a más de 44.000 afectados por el terremoto",
+      "canal": "Antioquia Amanece",
+      "hace": "hace 2 m",
+      "imagen": "https://i.ytimg.com/vi/wBltB9sJnww/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "HHQ-Rz8vJe0",
+      "titulo": "GOBIERNO ANUNCIA ALIVIÓ PARA CRÉDITOS DEL ICETEX ",
+      "canal": "El Cocuy Al Día ",
+      "hace": "hace 2 m",
+      "imagen": "https://i.ytimg.com/vi/HHQ-Rz8vJe0/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "l9pgNzTj7Gk",
+      "titulo": "Conoce cómo inscribirte al Fondo para Población Víctima del Conflicto Armado | #ICETEX",
+      "canal": "ICETEX",
+      "hace": "Transmitido hace 1 a",
+      "imagen": "https://i.ytimg.com/vi/l9pgNzTj7Gk/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "P1eo8qa2z5Q",
+      "titulo": "El ICETEX abre postulaciones para nuevos créditos educativos 2026 1",
+      "canal": "Noticias NVC",
+      "hace": "hace 8 m",
+      "imagen": "https://i.ytimg.com/vi/P1eo8qa2z5Q/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "IvhB6vEApTo",
+      "titulo": "¿Otra vez con los usuarios del ICETEX? Prometieron condonar las deudas, nunca lo hicieron.",
+      "canal": "Jota Rincon (Julieth)",
+      "hace": "hace 5 m",
+      "imagen": "https://i.ytimg.com/vi/IvhB6vEApTo/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "BZKEI9t83jg",
+      "titulo": "El ICETEX ya no funcionará como un banco.",
+      "canal": "A Fondo ",
+      "hace": "hace 4 a",
+      "imagen": "https://i.ytimg.com/vi/BZKEI9t83jg/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "v6W-RYrXwGc",
+      "titulo": "¿Qué pasará con los estudiantes beneficiarios de tasa cero interés del Icetex?",
+      "canal": "W Radio Colombia",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/v6W-RYrXwGc/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:50.447Z"
+    },
+    {
+      "id": "ffaY5GqMQVA",
+      "titulo": "ICETEX abre postulaciones para nuevos créditos educativos 2026-1 en programas de pregrado y posgrado",
+      "canal": "ICETEX",
+      "hace": "hace 9 m",
+      "imagen": "https://i.ytimg.com/vi/ffaY5GqMQVA/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:49.738Z"
+    },
+    {
+      "id": "YA3bgxxnWt4",
+      "titulo": "¿Cómo firmar las garantías de tu crédito ICETEX? Hazlo paso a paso",
+      "canal": "ICETEX",
+      "hace": "hace 3 sem.",
+      "imagen": "https://i.ytimg.com/vi/YA3bgxxnWt4/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:49.738Z"
+    },
+    {
+      "id": "aMDlGleguok",
+      "titulo": "Línea ETDH Educación para el Trabajo: Cómo financiar tu carrera técnica con ICETEX",
+      "canal": "ICETEX",
+      "hace": "hace 5 m",
+      "imagen": "https://i.ytimg.com/vi/aMDlGleguok/hqdefault.jpg",
+      "visto": "2026-11-25T20:50:49.738Z"
+    },
     {
       "id": "Ku24fEyYQqg",
       "titulo": "Educación financiera con ICETEX [Parte 1/5] | ¡Conoce la historia de Camila!",
@@ -131,113 +235,45 @@
       "hace": "hace 4 a",
       "imagen": "https://i.ytimg.com/vi/J5v2xt8Ko9I/hqdefault.jpg",
       "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "Pt-5F8Pr6po",
-      "titulo": "Lanzamiento de la Convocatoria 2027 - 1 | #ICETEX",
-      "canal": "ICETEX",
-      "hace": "Transmitido hace 3 sem.",
-      "imagen": "https://i.ytimg.com/vi/Pt-5F8Pr6po/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "5u-Uxqsulv8",
-      "titulo": "¡No pierdas esta oportunidad! Convocatoria de crédito ICETEX 2026-1",
-      "canal": "ICETEX",
-      "hace": "hace 8 m",
-      "imagen": "https://i.ytimg.com/vi/5u-Uxqsulv8/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "jrTZJZB2mzI",
-      "titulo": "¿Sabías que puedes pagar tu crédito del #ICETEX más rápido y ahorrar en intereses?",
-      "canal": "ICETEX",
-      "hace": "hace 7 m",
-      "imagen": "https://i.ytimg.com/vi/jrTZJZB2mzI/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "f4Iv8ZnZOWk",
-      "titulo": "¡Facilita la Legalización de tu Crédito con el ICETEX!",
-      "canal": "ICETEX",
-      "hace": "hace 3 sem.",
-      "imagen": "https://i.ytimg.com/vi/f4Iv8ZnZOWk/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "yGFu2NRhEr0",
-      "titulo": "¿Cómo renovar tu crédito con #ICETEX? | Te lo explicamos",
-      "canal": "ICETEX",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/yGFu2NRhEr0/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "3nCN9moudk4",
-      "titulo": "¿Dificultad de pago de las cuotas del crédito de ICETEX? Ya viene la Jornada de Soluciones",
-      "canal": "ICETEX",
-      "hace": "hace 6 m",
-      "imagen": "https://i.ytimg.com/vi/3nCN9moudk4/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "mMQaw79dIrI",
-      "titulo": "¿Qué es y cómo funciona el crédito educativo ICETEX?",
-      "canal": "ICETEX",
-      "hace": "hace 7 a",
-      "imagen": "https://i.ytimg.com/vi/mMQaw79dIrI/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "IhJKMJ-Rs0k",
-      "titulo": "ICETEX LANZA LÍNEA DE CRÉDITO ESPECIAL PARA TÉCNICO Y TECNÓLOGO",
-      "canal": "SERVIR COLOMBIA",
-      "hace": "hace 10 días",
-      "imagen": "https://i.ytimg.com/vi/IhJKMJ-Rs0k/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "9R-5c6aYrgM",
-      "titulo": "Gobierno del Cambio impulsa condonaciones masivas de créditos educativos del ICETEX",
-      "canal": "ICETEX",
-      "hace": "hace 9 m",
-      "imagen": "https://i.ytimg.com/vi/9R-5c6aYrgM/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "2KkfwuOwAds",
-      "titulo": "Pagar la universidad con el Icetex: ¿una ayuda o un ROBO? | La Pulla",
-      "canal": "La Pulla",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/2KkfwuOwAds/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "918WOWCmq6w",
-      "titulo": "Aprende a registrar tu cuenta bancaria y actualizar tus datos en #ICETEXVirtual",
-      "canal": "ICETEX",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/918WOWCmq6w/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "4nChnZCRxyo",
-      "titulo": "¿Cómo firmas las garantías con el ICETEX?",
-      "canal": "ICETEX",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/4nChnZCRxyo/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
-    },
-    {
-      "id": "cjhpyMSlXjE",
-      "titulo": "¿Cómo cargar mis documentos en el formulario de solicitud del ICETEX?",
-      "canal": "ICETEX",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/cjhpyMSlXjE/hqdefault.jpg",
-      "visto": "2026-11-25T11:53:36.289Z"
     }
   ],
   "noticias": [
+    {
+      "titulo": "&#191;Quiere estudiar y no tiene c&#243;mo pagar? ICETEX llegar&#225; a Piedecuesta con opciones de financiaci&#243;n",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-25T12:36:00.000Z",
+      "url": "https://caracol.com.co/2026/11/25/quiere-estudiar-y-no-tiene-como-pagar-icetex-llegara-a-piedecuesta-con-opciones-de-financiacion/",
+      "imagen": "https://caracol.com.co/resizer/v2/OWUEARIE5FHPLEQAW5RE26EJXI.jpeg?auth=6297063667cc15c5866cb12d029caf146e61331072f4930ecf325a87da96580b&quality=70&width=1200&height=675&smart=true",
+      "tema": "contratos",
+      "hd": true
+    },
+    {
+      "titulo": "Se vence el plazo para aplicar a la condonaci&#243;n de intereses del Icetex: as&#237; puede aplicar",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-25T12:08:00.000Z",
+      "url": "https://www.elcolombiano.com/colombia/como-condonar-credito-educativo-icetex-FF44057075",
+      "imagen": "https://estaticos.elcolombiano.com/binrepository/1280x853/0c67/1280d720/none/11101/QLTT/a20250915t040040-m-10-211-95-50-51-4_52226225_20261125130505.jpg",
+      "tema": "contratos",
+      "hd": true
+    },
+    {
+      "titulo": "ICETEX 2027-1: fechas de cierre, requisitos, l&#237;neas de cr&#233;dito y pasos para solicitar financiaci&#243;n",
+      "medio": "cablenoticias",
+      "fecha": "2026-11-25T01:55:00.000Z",
+      "url": "https://www.cablenoticias.com/noticias/icetex-2027-1-fechas-cierre-requisitos-lineas-credito-y-pasos-solicitar-financiacion",
+      "imagen": "https://www.cablenoticias.com/media/img/8c2c9b9e-e369-4a11-92c6-d906e2bcaa3e",
+      "tema": "creditos",
+      "hd": true
+    },
+    {
+      "titulo": "El ICETEX abre convocatoria de 50 becas para cursar maestr&#237;as virtuales en Espa&#241;a con un descuento del 45 % en matr&#237;cula",
+      "medio": "ICETEX",
+      "fecha": "2026-11-24T15:59:00.000Z",
+      "url": "https://web.icetex.gov.co/-/icetex-abre-convocatoria-50-becas-cursar-maestrias-virtuales-en-espana-con-descuento-45-en-matricula",
+      "imagen": "https://web.icetex.gov.co/documents/20122/3873989/imagen-asesora-icetex-explicando-informacion-grupo-personas-en-sala-atencion.jpg/52c06580-2810-0776-d795-49a2229a0c60?version=1.0&t=1795627402144&download=true",
+      "tema": "creditos",
+      "hd": true
+    },
     {
       "titulo": "Icetex ampl&#237;a plazo de cr&#233;ditos educativos para afectados por el terremoto",
       "medio": "Diario del Sur",
@@ -784,6 +820,14 @@
       "tema": "creditos"
     },
     {
+      "titulo": "Icetex condonará hasta el 100 % de intereses de mora: así funcionará la campaña",
+      "medio": "Infobae",
+      "fecha": "2026-11-13T08:00:00.000Z",
+      "url": "https://www.infobae.com/colombia/2026/11/14/icetex-condonara-hasta-el-100-de-intereses-de-mora-asi-funcionara-la-campana/",
+      "imagen": "https://www.infobae.com/resizer/v2/RK6GL33QCRBNBLSM4I2FFETWBA.jpg?auth=2a3b372251b594fbd298c29092c69da5f4182e34d804c8b1efe27f1add84d986&smart=true&width=1024&height=512&quality=85",
+      "tema": "contratos"
+    },
+    {
       "titulo": "Icetex condonar&#225; intereses vencidos a beneficiarios que firmen acuerdos de pago",
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-13T07:17:37.000Z",
@@ -986,6 +1030,14 @@
       "hd": true
     },
     {
+      "titulo": "Las denuncias del presidente del Icetex sobre lo que encontró en esa entidad",
+      "medio": "El Espectador",
+      "fecha": "2026-11-06T08:00:00.000Z",
+      "url": "https://www.elespectador.com/educacion/las-denuncias-del-presidente-del-icetex-sobre-lo-que-encontro-en-esa-entidad/",
+      "imagen": "https://www.elespectador.com/wp-content/uploads/elespectador/2KOGHGL2HVFUXKZDAGNBKBT2D4.jpg?resize=1200,630",
+      "tema": "contratos"
+    },
+    {
       "titulo": "Las denuncias del presidente del Icetex sobre lo que encontr&#243; en esa entidad",
       "medio": "El Espectador",
       "fecha": "2026-11-06T06:05:00.000Z",
@@ -1058,57 +1110,6 @@
       "fecha": "2026-11-05T14:10:00.000Z",
       "url": "https://www.elpais.com.co/colombia/icetex-denuncia-hallazgos-por-mas-de-83000-millones-en-contratos-inviables-y-desborde-burocratico-0555.html",
       "imagen": "https://www.elpais.com.co/resizer/v2/AH355GV4JRBYDKHYZ4QLPNALRI.jpg?auth=18b8721b50a29d0023f12e1f5b5b64d0c3b4e5b51c26ee071c060265fee599da&smart=true&quality=75&width=1280&height=720",
-      "tema": "ahorro",
-      "hd": true
-    },
-    {
-      "titulo": "Auditor&#237;a al Icetex revela presuntas irregularidades por m&#225;s de $83.000 millones y aumento del gasto burocr&#225;tico",
-      "medio": "agenciapi",
-      "fecha": "2026-11-05T13:03:00.000Z",
-      "url": "https://www.agenciapi.co/noticia/academia/auditoria-al-icetex-revela-presuntas-irregularidades-por-mas-de-83000-millones-y-aumento-del-gasto-burocratico",
-      "imagen": "https://www.agenciapi.co/sites/default/files/2023-04/Icetex%20edificio.jpg",
-      "tema": "contratos",
-      "hd": true
-    },
-    {
-      "titulo": "Esta entidad denuncia contratos por $83 mil 770 millones para un proyecto que no era viable financieramente",
-      "medio": "La Patria",
-      "fecha": "2026-11-05T08:00:00-05:00",
-      "url": "https://www.lapatria.com/colombia/esta-entidad-denuncia-contratos-por-83-mil-770-millones-para-un-proyecto-que-no-era-viable",
-      "imagen": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/Icetex.jpeg?itok=zGyu1xaP",
-      "tema": "ahorro"
-    },
-    {
-      "titulo": "ICETEX abre 15.000 créditos educativos 2027: conozca los req",
-      "medio": "Diario del Cauca",
-      "fecha": "2026-11-05T12:33:32.000Z",
-      "url": "https://www.diariodelsur.com.co/noticias/icetex-abre-15-000-creditos-educativos-2027-conozca-los-requisitos-y-las-nuevas-oportunid",
-      "imagen": "https://www.diariodelsur.com.co/uploads/articles/332c309e-9035-49e0-a547-111f113e1442.webp",
-      "tema": "creditos",
-      "hd": true
-    },
-    {
-      "titulo": "ICETEX abre 15.000 créditos educativos 2027: conozca los requisitos y las nuevas oportunid",
-      "medio": "HSB Noticias",
-      "fecha": "2026-11-05T12:33:32.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdm9SRWZPVXVvZmV0eDFjRWhRY0VZUFY4NjVGLVpkdkdNWm1QTTFocU83amc1aUNuM2NERDBKZ2k5b2xmLTF1aEVtc2FiOTcwcXEyUnd1RFBSMnljdDZHY3ZEclBLOGh3R3pWblhIaXNJNTdqOF9iTEpyVVlWYy0yZDFweEZmRllBUVA5Zm9Rb0hCRWFOT0owbmlqeWZpNDJXQ01GUWU3Rlk0RWNTQi1qRmxFNEZzdGwyVVpOMi1RRQ?oc=5",
-      "imagen": "",
-      "tema": "creditos"
-    },
-    {
-      "titulo": "Mientras gobierno Petro recortó recursos de subsidio de ICETEX, disparó la contratación en la entidad, denuncia Richard Caicedo",
-      "medio": "Observatorio de la Universidad Colombiana",
-      "fecha": "2026-11-05T07:00:00-05:00",
-      "url": "https://www.universidad.edu.co/mientras-gobierno-petro-recorto-recursos-de-subsidio-de-icetex-disparo-la-contratacion-en-la-entidad-denuncia-richard-caicedo/",
-      "imagen": "https://www.universidad.edu.co/wp-content/uploads/2026/11/icetexpresidencia.jpg",
-      "tema": "contratos"
-    },
-    {
-      "titulo": "Icetex denuncia presuntas irregularidades por $83.770 millones en proyecto inviable durante el gobierno Petro",
-      "medio": "Metropolitano",
-      "fecha": "2026-11-05T06:00:00-05:00",
-      "url": "https://metropolitano.com.co/icetex-denuncia-irregularidades-por-83-770-millones/",
-      "imagen": "https://metropolitano.com.co/wp-content/uploads/2026/11/Richard-Caicedo-presidente-Icetex.jpg",
       "tema": "ahorro",
       "hd": true
     }
