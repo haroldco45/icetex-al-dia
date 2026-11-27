@@ -1,7 +1,12 @@
 {
-  "actualizado": "2026-11-26T23:22:13-05:00",
+  "actualizado": "2026-11-27T09:05:34-05:00",
   "fuente": "Google Noticias y YouTube (robot cada 30 min)",
   "fotos": [
+    {
+      "src": "https://elquindiano.com/wp-content/uploads/2026/11/Captura-de-Pantalla-2026-11-26-a-las-11.42.48-p.m-1024x807.png",
+      "medio": "El Quindiano",
+      "url": "https://elquindiano.com/noticia/283032/el-icetex-vuelve-a-operar-con-su-atencion-presencial-habitual-en-armenia/"
+    },
     {
       "src": "https://www.cablenoticias.com/media/img/8c2c9b9e-e369-4a11-92c6-d906e2bcaa3e",
       "medio": "cablenoticias",
@@ -36,14 +41,193 @@
       "src": "https://web.icetex.gov.co/documents/20122/3873989/imagen-asesora-icetex-explicando-informacion-grupo-personas-en-sala-atencion.jpg/52c06580-2810-0776-d795-49a2229a0c60?version=1.0&t=1795627402144&download=true",
       "medio": "ICETEX",
       "url": "https://web.icetex.gov.co/-/icetex-abre-convocatoria-50-becas-cursar-maestrias-virtuales-en-espana-con-descuento-45-en-matricula"
-    },
-    {
-      "src": "https://gec.hsbnoticias.com/uploads/articles/8df88cd0-6a43-4bf5-8eb8-c91f786d56e7.webp",
-      "medio": "Diario del Sur",
-      "url": "https://www.diariodelsur.com.co/noticias/icetex-amplia-plazo-de-creditos-educativos-para-afectados-por-el-terremoto"
     }
   ],
   "videos": [
+    {
+      "id": "ffaY5GqMQVA",
+      "titulo": "ICETEX abre postulaciones para nuevos créditos educativos 2026-1 en programas de pregrado y posgrado",
+      "canal": "ICETEX",
+      "hace": "hace 9 m",
+      "imagen": "https://i.ytimg.com/vi/ffaY5GqMQVA/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "jrTZJZB2mzI",
+      "titulo": "¿Sabías que puedes pagar tu crédito del #ICETEX más rápido y ahorrar en intereses?",
+      "canal": "ICETEX",
+      "hace": "hace 7 m",
+      "imagen": "https://i.ytimg.com/vi/jrTZJZB2mzI/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "KEh3gYUl9bg",
+      "titulo": "Crédito educativo del ICETEX",
+      "canal": "ICETEX",
+      "hace": "hace 10 a",
+      "imagen": "https://i.ytimg.com/vi/KEh3gYUl9bg/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "DMOSspmfRJ0",
+      "titulo": "Accede a tu crédito educativo con el ICETEX",
+      "canal": "Unidades Tecnológicas de Santander",
+      "hace": "hace 9 a",
+      "imagen": "https://i.ytimg.com/vi/DMOSspmfRJ0/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "1CImBsnFbAU",
+      "titulo": "¿Qué tiene ICETEX para que puedas acceder a la educación  superior?",
+      "canal": "ICETEX",
+      "hace": "Transmitido hace 6 a",
+      "imagen": "https://i.ytimg.com/vi/1CImBsnFbAU/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "Xyp0PW0VUWg",
+      "titulo": "Créditos educativos del ICETEX un lucrativo negocio",
+      "canal": "SUTEV Valle",
+      "hace": "hace 6 a",
+      "imagen": "https://i.ytimg.com/vi/Xyp0PW0VUWg/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:34.531Z"
+    },
+    {
+      "id": "iYlK9joumaA",
+      "titulo": "Auditoría Financiera de la CGR revela irregularidades en los giros del ICETEX por $115.512 millones",
+      "canal": "Contraloría General de la República de Colombia ",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/iYlK9joumaA/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "xKfAbZBLaFI",
+      "titulo": "¡En pausa subsidios del @ICETEX por irregularidades!",
+      "canal": "Programas del Congreso",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/xKfAbZBLaFI/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "pD3xSwiVz6g",
+      "titulo": "POR IRREGULARIDADES EN EL ICETEX SUSPENDEN CRÉDITOS",
+      "canal": "Gs Noticias",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/pD3xSwiVz6g/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "3nCN9moudk4",
+      "titulo": "¿Dificultad de pago de las cuotas del crédito de ICETEX? Ya viene la Jornada de Soluciones",
+      "canal": "ICETEX",
+      "hace": "hace 6 m",
+      "imagen": "https://i.ytimg.com/vi/3nCN9moudk4/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "727lNG6QQTo",
+      "titulo": "Irregularidades icetex",
+      "canal": "Oscar Carvajal",
+      "hace": "hace 12 a",
+      "imagen": "https://i.ytimg.com/vi/727lNG6QQTo/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "gMIgvL7oFF0",
+      "titulo": "Irregularidades en el ICETEX",
+      "canal": "INFORMATIVO TELESANGIL",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/gMIgvL7oFF0/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "2KkfwuOwAds",
+      "titulo": "Pagar la universidad con el Icetex: ¿una ayuda o un ROBO? | La Pulla",
+      "canal": "La Pulla",
+      "hace": "hace 1 a",
+      "imagen": "https://i.ytimg.com/vi/2KkfwuOwAds/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "9R-5c6aYrgM",
+      "titulo": "Gobierno del Cambio impulsa condonaciones masivas de créditos educativos del ICETEX",
+      "canal": "ICETEX",
+      "hace": "hace 9 m",
+      "imagen": "https://i.ytimg.com/vi/9R-5c6aYrgM/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "AxYy4ve5_Cg",
+      "titulo": "MinTIC culpa a Icetex por escándalo de becas",
+      "canal": "W Radio Colombia",
+      "hace": "hace 2 a",
+      "imagen": "https://i.ytimg.com/vi/AxYy4ve5_Cg/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "R0tH1tjl3cY",
+      "titulo": "#SHORTS La contraloría descubrió irregularidades en algunos créditos del ICETEX.",
+      "canal": "Lainfo 360",
+      "hace": "hace 3 a",
+      "imagen": "https://i.ytimg.com/vi/R0tH1tjl3cY/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.964Z"
+    },
+    {
+      "id": "f4Iv8ZnZOWk",
+      "titulo": "¡Facilita la Legalización de tu Crédito con el ICETEX!",
+      "canal": "ICETEX",
+      "hace": "hace 3 sem.",
+      "imagen": "https://i.ytimg.com/vi/f4Iv8ZnZOWk/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "YA3bgxxnWt4",
+      "titulo": "¿Cómo firmar las garantías de tu crédito ICETEX? Hazlo paso a paso",
+      "canal": "ICETEX",
+      "hace": "hace 3 sem.",
+      "imagen": "https://i.ytimg.com/vi/YA3bgxxnWt4/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "yGFu2NRhEr0",
+      "titulo": "¿Cómo renovar tu crédito con #ICETEX? | Te lo explicamos",
+      "canal": "ICETEX",
+      "hace": "hace 1 a",
+      "imagen": "https://i.ytimg.com/vi/yGFu2NRhEr0/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "toJ7VZz-SN4",
+      "titulo": "¿Por qué Petro quita los subsidios al ICETEX? #shorts",
+      "canal": "Chiriguana Stereo 107.7",
+      "hace": "hace 1 a",
+      "imagen": "https://i.ytimg.com/vi/toJ7VZz-SN4/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "erGK2vr0aZU",
+      "titulo": "Todo tu crédito, en la palma de tu mano (App ICETEX)",
+      "canal": "ICETEX",
+      "hace": "hace 6 m",
+      "imagen": "https://i.ytimg.com/vi/erGK2vr0aZU/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "mMQaw79dIrI",
+      "titulo": "¿Qué es y cómo funciona el crédito educativo ICETEX?",
+      "canal": "ICETEX",
+      "hace": "hace 7 a",
+      "imagen": "https://i.ytimg.com/vi/mMQaw79dIrI/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:33.304Z"
+    },
+    {
+      "id": "IhJKMJ-Rs0k",
+      "titulo": "ICETEX LANZA LÍNEA DE CRÉDITO ESPECIAL PARA TÉCNICO Y TECNÓLOGO",
+      "canal": "SERVIR COLOMBIA",
+      "hace": "hace 12 días",
+      "imagen": "https://i.ytimg.com/vi/IhJKMJ-Rs0k/hqdefault.jpg",
+      "visto": "2026-11-27T14:05:32.768Z"
+    },
     {
       "id": "Ku24fEyYQqg",
       "titulo": "Educación financiera con ICETEX [Parte 1/5] | ¡Conoce la historia de Camila!",
@@ -51,193 +235,18 @@
       "hace": "hace 4 a",
       "imagen": "https://i.ytimg.com/vi/Ku24fEyYQqg/hqdefault.jpg",
       "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "wV4zeORCAD0",
-      "titulo": "Falta poco para que tu talento sea visto | Convocatoria Crédito Educativo ICETEX 2027-1",
-      "canal": "ICETEX",
-      "hace": "hace 1 m",
-      "imagen": "https://i.ytimg.com/vi/wV4zeORCAD0/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "W9NtRoAeYOM",
-      "titulo": "El ICETEX amplía los plazos para que más personas accedan a educación superior en 2026-1.",
-      "canal": "ICETEX",
-      "hace": "hace 8 m",
-      "imagen": "https://i.ytimg.com/vi/W9NtRoAeYOM/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "wZflCmturJ4",
-      "titulo": "Educación financiera con ICETEX [Parte 3/5] | ¡Etapas en tu plan de pagos!",
-      "canal": "ICETEX",
-      "hace": "hace 4 a",
-      "imagen": "https://i.ytimg.com/vi/wZflCmturJ4/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "n-Si4X8sHO4",
-      "titulo": "El ICETEX brindará 9.000 créditos educativos adicionales para convocatorias en 2026",
-      "canal": "ICETEX",
-      "hace": "hace 9 m",
-      "imagen": "https://i.ytimg.com/vi/n-Si4X8sHO4/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "Vg3j6NxmXNI",
-      "titulo": "Charla virtual: Qué es y cómo funciona el crédito educativo ICETEX.",
-      "canal": "ICETEX",
-      "hace": "Transmitido hace 6 a",
-      "imagen": "https://i.ytimg.com/vi/Vg3j6NxmXNI/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "GQ06bLwtroo",
-      "titulo": "Icetex lanza programa de ahorro desde la infancia para estudios superiores",
-      "canal": "NotiCentro CM&",
-      "hace": "hace 8 a",
-      "imagen": "https://i.ytimg.com/vi/GQ06bLwtroo/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "2MmZXNQfmOI",
-      "titulo": "¿Qué son los Fondos de educación que administra el ICETEX?",
-      "canal": "ICETEX",
-      "hace": "hace 8 a",
-      "imagen": "https://i.ytimg.com/vi/2MmZXNQfmOI/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "FlgI6vuz_E4",
-      "titulo": "CAPACITACIÓN FINANCIERA EN EL ICETEX",
-      "canal": "Tu Canal Colombia",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/FlgI6vuz_E4/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:13.265Z"
-    },
-    {
-      "id": "rYeLAHN_iiI",
-      "titulo": "Créditos irregulares en Icetex - Teleantioquia Noticias",
-      "canal": "Teleantioquia Noticias",
-      "hace": "hace 3 a",
-      "imagen": "https://i.ytimg.com/vi/rYeLAHN_iiI/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.656Z"
-    },
-    {
-      "id": "dBoGw9cAhLg",
-      "titulo": "Plan de alivios e incentivos para usuarios del ICETEX",
-      "canal": "Ministerio de Educación Nacional",
-      "hace": "hace 6 a",
-      "imagen": "https://i.ytimg.com/vi/dBoGw9cAhLg/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.656Z"
-    },
-    {
-      "id": "U7AfydzxvEA",
-      "titulo": "FL -  10 Oct 2025 | Flash Informativo | Denuncian presuntas irregularidades en el ICETEX.",
-      "canal": "Canal Congreso Colombia ",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/U7AfydzxvEA/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.656Z"
-    },
-    {
-      "id": "Jt-9KmXqNeU",
-      "titulo": "ICETEX presentó crédito condonable del 100% a estudiantes con discapacidad | RTVC Noticias",
-      "canal": "RTVC Noticias",
-      "hace": "hace 3 a",
-      "imagen": "https://i.ytimg.com/vi/Jt-9KmXqNeU/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.656Z"
-    },
-    {
-      "id": "PkWIjNdNCrs",
-      "titulo": "Créditos condonables ICETEX para personas con DISCAPACIDAD | RTVC Noticias",
-      "canal": "RTVC Noticias",
-      "hace": "hace 3 a",
-      "imagen": "https://i.ytimg.com/vi/PkWIjNdNCrs/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.656Z"
-    },
-    {
-      "id": "umvun2NPJmY",
-      "titulo": "Vocería Presidente del ICETEX, Richard Caicedo Rico",
-      "canal": "Presidencia de la República - Colombia",
-      "hace": "hace 3 sem.",
-      "imagen": "https://i.ytimg.com/vi/umvun2NPJmY/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "sRha1H2Doe8",
-      "titulo": "Richard Caicedo, nuevo presidente del ICETEX de De La Espriella | Vanguardia",
-      "canal": "VANGUARDIA",
-      "hace": "hace 3 m",
-      "imagen": "https://i.ytimg.com/vi/sRha1H2Doe8/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "wBltB9sJnww",
-      "titulo": "Icetex suspende cobro de créditos y congela intereses a más de 44.000 afectados por el terremoto",
-      "canal": "Antioquia Amanece",
-      "hace": "hace 2 m",
-      "imagen": "https://i.ytimg.com/vi/wBltB9sJnww/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "HHQ-Rz8vJe0",
-      "titulo": "GOBIERNO ANUNCIA ALIVIÓ PARA CRÉDITOS DEL ICETEX ",
-      "canal": "El Cocuy Al Día ",
-      "hace": "hace 2 m",
-      "imagen": "https://i.ytimg.com/vi/HHQ-Rz8vJe0/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "IvhB6vEApTo",
-      "titulo": "¿Otra vez con los usuarios del ICETEX? Prometieron condonar las deudas, nunca lo hicieron.",
-      "canal": "Jota Rincon (Julieth)",
-      "hace": "hace 5 m",
-      "imagen": "https://i.ytimg.com/vi/IvhB6vEApTo/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "TWpQ6jav1PQ",
-      "titulo": "LA VERDAD SOBRE SUBSIDIO DEL ICETEX QUE PUSO PETRO Y AHORA SE DESMONTA",
-      "canal": "Colombia Indignada",
-      "hace": "hace 1 a",
-      "imagen": "https://i.ytimg.com/vi/TWpQ6jav1PQ/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "BZKEI9t83jg",
-      "titulo": "El ICETEX ya no funcionará como un banco.",
-      "canal": "A Fondo ",
-      "hace": "hace 4 a",
-      "imagen": "https://i.ytimg.com/vi/BZKEI9t83jg/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "P1eo8qa2z5Q",
-      "titulo": "El ICETEX abre postulaciones para nuevos créditos educativos 2026 1",
-      "canal": "Noticias NVC",
-      "hace": "hace 8 m",
-      "imagen": "https://i.ytimg.com/vi/P1eo8qa2z5Q/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "ICM5SCbEnI8",
-      "titulo": "PRESIDENTE DE ICETEX VINO A PEREIRA. DICE QUE LA ENTIDAD GOZA DE BUENA SALUD FINANCIERA.",
-      "canal": "GQ  TU CANAL",
-      "hace": "hace 2 m",
-      "imagen": "https://i.ytimg.com/vi/ICM5SCbEnI8/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
-    },
-    {
-      "id": "v6W-RYrXwGc",
-      "titulo": "¿Qué pasará con los estudiantes beneficiarios de tasa cero interés del Icetex?",
-      "canal": "W Radio Colombia",
-      "hace": "hace 3 a",
-      "imagen": "https://i.ytimg.com/vi/v6W-RYrXwGc/hqdefault.jpg",
-      "visto": "2026-11-27T04:22:12.052Z"
     }
   ],
   "noticias": [
+    {
+      "titulo": "El ICETEX vuelve a operar con su atenci&#243;n presencial habitual en Armenia",
+      "medio": "El Quindiano",
+      "fecha": "2026-11-26T20:44:00.000Z",
+      "url": "https://elquindiano.com/noticia/283032/el-icetex-vuelve-a-operar-con-su-atencion-presencial-habitual-en-armenia/",
+      "imagen": "https://elquindiano.com/wp-content/uploads/2026/11/Captura-de-Pantalla-2026-11-26-a-las-11.42.48-p.m-1024x807.png",
+      "tema": "contratos",
+      "hd": true
+    },
     {
       "titulo": "ICETEX 2027-1: fechas de cierre, requisitos, líneas de crédito y pasos para solicitar financiación",
       "medio": "cablenoticias",
@@ -1102,14 +1111,6 @@
       "medio": "Ke se dice",
       "fecha": "2026-11-05T23:16:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEgxbG9saDJ1MzdOcEdBMHFYYVZvRTVHSVhTTXBlXzdjTlVqR3c4SUZ5S3BVNzJPRHRGdTRXQ2VpQVQ3YVdvR2d3VE8xQTVEeWl0OUg3eWN1Qlh2N3YwWGZKWXYzYTFrUlBYMVBxekM2Z1ZKeVZsQWVrcG1ETHJUWHZZWkZaYk9JR0pfam5KRHVtZV9lNzFHVDMzYk5vbzg5QWlEcFZlWnl2VTlZSnpIMThhV0pSa2ZqTUlsMkdIV0ZzbGJ5RmprODFQZXJsdw?oc=5",
-      "imagen": "",
-      "tema": "ahorro"
-    },
-    {
-      "titulo": "Icetex denuncia hallazgos por más de $83.000 millones en contratos inviables y desborde burocrático",
-      "medio": "El País",
-      "fecha": "2026-11-05T22:10:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTTl3LVVEb2ZweVZHaG5mazRrUEI0ZFFLcnFMdWl0b1hjZVhNM3JpNVAwaTBnNWYwVDVXajNqVWZldldiQmlzc09QX0hxQ3M4UHo5YWVtU2lvMUowbmY5NGRqYmZJN2lrdVRVSDA2ckluTXdYSjRaazh1TjY1NUlTMnF0Z1E1R1ZkOHpWZDY1Y3NaajltNUJ0NUpWRGk5SmRYdXZpWGdSVkUxZktIWjh3blJHNHpqTzhuMzBLRTlzR3lvNlNnUW9RcDJ5UXFWU0VPejJadDJrRzRWd9IB3wFBVV95cUxPNERDWGtZZ3V3dXFMWXVlVGJBTl9mNzhNajRwdDNjVXBaTFJhUTRhVE9tZWp2UGUwdmZMZVd6dHN2YmczWEYzbDNIVElteHR0cUhjMk1WM0prMzAxT0VJUUMyLVQyT2xYSlRVRjJTZ3NiX2V3S2ZQcTljMmlSRFZTR21XYmdySktJbm8wdy11UnJHVHBNcGhQNFdxWjBxNVdQeXRKZ3h6cVJtQ0wzNTNmenF5MEx3Y2FLX18xS2JqYmRpcld5aDJCNml5ckxZZlZQYktwcU83MnZCdGFSR2Z3?oc=5",
       "imagen": "",
       "tema": "ahorro"
     }
